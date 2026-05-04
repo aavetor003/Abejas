@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260503144343YXFH0M</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260503144343NUPHBL</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿DÓNDE ESTÁ LA MIEL DE LAS ABEJAS?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Abejas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Alba Avellaneda Torres</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Con el alumnado de 5 años de Ed. Infantil vamos a trabajar Las abejas. Qué hacen, qué fabrican, que comen, que producen, las partes de su cuerpo, la importancia de la polinización y la miel y sus beneficios para la salud</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777561558762</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777545908440-6f2rr44vz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Índice</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Índice</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777545908440-6f2rr44vz</odePageId>
+      <odeBlockId>block-1777545922523-gqkp5ab11</odeBlockId>
+      <blockName>Indice</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777545908440-6f2rr44vz</odePageId>
+          <odeBlockId>block-1777545922523-gqkp5ab11</odeBlockId>
+          <odeIdeviceId>idevice-1777545922520-a4flymqq1</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777545908440-6f2rr44vz</odePageId>
+      <odeBlockId>block-1777545938512-pmwnsqqqr</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777545908440-6f2rr44vz</odePageId>
+          <odeBlockId>block-1777545938512-pmwnsqqqr</odeBlockId>
+          <odeIdeviceId>idevice-1777545938511-yq9trr328</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/ïndice_page-0001.jpg" title="índice" width="1241" height="1755" alt="1" /></p>
+<p></p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/ïndice_page-0002.jpg" title="índice" width="1241" height="1755" alt="2" /></p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/ïndice_page-0003.jpg" title="índice" width="1241" height="1755" alt="3" /><img src="{{context_path}}/content/resources/Tarea 7.1 Alba Avellaneda (1).pdf" title="Índice" alt="" width="NaN" height="NaN" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777545938511-yq9trr328","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/ïndice_page-0001.jpg\" title=\"índice\" width=\"1241\" height=\"1755\" alt=\"1\" /></p>\n<p></p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/ïndice_page-0002.jpg\" title=\"índice\" width=\"1241\" height=\"1755\" alt=\"2\" /></p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/ïndice_page-0003.jpg\" title=\"índice\" width=\"1241\" height=\"1755\" alt=\"3\" /><img src=\"{{context_path}}/content/resources/Tarea 7.1 Alba Avellaneda (1).pdf\" title=\"Índice\" alt=\"\" width=\"NaN\" height=\"NaN\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>a70993c8-824c-4582-9890-35d2819f5275</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>La llamada</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La llamada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La llamada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>a70993c8-824c-4582-9890-35d2819f5275</odePageId>
+      <odeBlockId>block-1777543319476-77ie5wo1s</odeBlockId>
+      <blockName>¿Quién nos llama?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>a70993c8-824c-4582-9890-35d2819f5275</odePageId>
+          <odeBlockId>block-1777543319476-77ie5wo1s</odeBlockId>
+          <odeIdeviceId>idevice-1777543319474-3h3tqnjxu</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>a70993c8-824c-4582-9890-35d2819f5275</odePageId>
+      <odeBlockId>block-1777543488746-4c9910fp9</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>a70993c8-824c-4582-9890-35d2819f5275</odePageId>
+          <odeBlockId>block-1777543488746-4c9910fp9</odeBlockId>
+          <odeIdeviceId>idevice-1777543488744-ulp1u08h8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="¿Qué ha pasado?">¿Qué ha pasado?</span></dt><dd>01:00</dd></div><div class="inline"><dt><span title="Gran grupo">Gran grupo</span></dt><dd>toda la clase</dd></div></dl><p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Recibimos una llamada telefónica de una apicultora llamada Susana hecha de manera animada que les transmite un mensaje pidiéndoles ayuda para salvar a sus abejas que están haciendo muy poca miel (vídeo realizado por el docente con el programa vidnoz).</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"></span></span></p>
+<p><video width="300" height="150" controls="controls">
+<source src="{{context_path}}/content/resources/apicultora.mp4" type="video/mp4" /></video></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777543488744-ulp1u08h8","textInfoDurationInput":"01:00","textInfoDurationTextInput":"¿Qué ha pasado?","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"Gran grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"¿Qué ha pasado?\">¿Qué ha pasado?</span></dt><dd>01:00</dd></div><div class=\"inline\"><dt><span title=\"Gran grupo\">Gran grupo</span></dt><dd>toda la clase</dd></div></dl><p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Recibimos una llamada telefónica de una apicultora llamada Susana hecha de manera animada que les transmite un mensaje pidiéndoles ayuda para salvar a sus abejas que están haciendo muy poca miel (vídeo realizado por el docente con el programa vidnoz).</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></span></p>\n<p><video width=\"300\" height=\"150\" controls=\"controls\">\n<source src=\"{{context_path}}/content/resources/apicultora.mp4\" type=\"video/mp4\" /></video></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>a70993c8-824c-4582-9890-35d2819f5275</odePageId>
+      <odeBlockId>block-1777543896000-i3cvl1v99</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>a70993c8-824c-4582-9890-35d2819f5275</odePageId>
+          <odeBlockId>block-1777543896000-i3cvl1v99</odeBlockId>
+          <odeIdeviceId>idevice-1777543895998-z0octxlde</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1777543895998-z0octxlde" data-evaluationb="false" data-evaluationid="1353813f-18cb-4074-b937-96ede32c7650"></div>
+            <div id="frmMainContainer-idevice-1777543895998-z0octxlde" class="form-IDevice" data-id="idevice-1777543895998-z0octxlde">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:flex;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1777543895998-z0octxlde">04:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1777543895998-z0octxlde" style="display:flex;">
+                      <button  id="frmStartGame-idevice-1777543895998-z0octxlde" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1777543895998-z0octxlde" style="display:none;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1777543895998-z0octxlde" > </div>
+                        <div id="frmCover-idevice-1777543895998-z0octxlde" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1777543895998-z0octxlde" class="form-results-container inline">
+                        <div id="form-score-idevice-1777543895998-z0octxlde" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1777543895998-z0octxlde" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1777543895998-z0octxlde" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1777543895998-z0octxlde" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1777543895998-z0octxlde" type="button" value="Reiniciar"
+                            data-id="idevice-1777543895998-z0octxlde" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1777543895998-z0octxlde" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1777543895998-z0octxlde" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1777543895998-z0octxlde" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777543895998-z0octxlde","evaluation":false,"evaluationID":"1353813f-18cb-4074-b937-96ede32c7650","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1777543895998-z0octxlde","questionsRandom":false,"percentageQuestions":"100","time":"4","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1777544068414-SKDO4","activityType":"true-false","baseText":"<p>Las abejas hacen miel</p>","feedbackRight":"¡MUY BIEN!","feedbackWrong":"SIGUE INTENTÁNDOLO","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777544118063-HWBXT","activityType":"true-false","baseText":"<p>Las abejas se han ido de vacaciones</p>","feedbackRight":"¡MUY BIEN!","feedbackWrong":"SIGUE INTENTÁNDOLO","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777544175005-YB5C9","activityType":"true-false","baseText":"<p>La apicultora es la persona que cuida de las ovejas</p>","feedbackRight":"¡MUY BIEN!","feedbackWrong":"SIGUE INTENTÁNDOLO","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777544209454-YALZZ","activityType":"true-false","baseText":"<p>Las abejas viven en colmenas</p>","feedbackRight":"¡MUY BIEN!","feedbackWrong":"SIGUE INTENTÁNDOLO","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777544236515-CGMZB","activityType":"true-false","baseText":"<p>La miel la hacen con el polen de las flores</p>","feedbackRight":"¡MUY BIEN!","feedbackWrong":"SIGUE INTENTÁNDOLO","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777544360763-I32MC","activityType":"true-false","baseText":"<p>Las abejas son malas</p>","feedbackRight":"¡MUY BIEN!","feedbackWrong":"SIGUE INTENTÁNDOLO","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777544706464-pxb95izw9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>información abejas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>información abejas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777544706464-pxb95izw9</odePageId>
+      <odeBlockId>block-1777544709855-okvmstk2p</odeBlockId>
+      <blockName>Llamada</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777544706464-pxb95izw9</odePageId>
+          <odeBlockId>block-1777544709855-okvmstk2p</odeBlockId>
+          <odeIdeviceId>idevice-1777544709854-ujpv0qjrr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="video">video</span></dt><dd>00:15</dd></div><div class="inline"><dt><span title="Gran grupo">Gran grupo</span></dt><dd>toda la clase</dd></div></dl><p><br /></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/url_qrfast_12_50_51.jpg" title="Información" width="341" height="524" alt="QR" /></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Nos encontramos un código QR, el cual tendrán que leer con las tablet y la aplicación correspondiente. De dicho QR dará lugar al visionado de un vídeo dónde nos dan información sobre las abejas. Lo comentamos.</span></span></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777544709854-ujpv0qjrr","textInfoDurationInput":"00:15","textInfoDurationTextInput":"video","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"Gran grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"video\">video</span></dt><dd>00:15</dd></div><div class=\"inline\"><dt><span title=\"Gran grupo\">Gran grupo</span></dt><dd>toda la clase</dd></div></dl><p><br /></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/url_qrfast_12_50_51.jpg\" title=\"Información\" width=\"341\" height=\"524\" alt=\"QR\" /></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Nos encontramos un código QR, el cual tendrán que leer con las tablet y la aplicación correspondiente. De dicho QR dará lugar al visionado de un vídeo dónde nos dan información sobre las abejas. Lo comentamos.</span></span></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777545493634-0l0olu6pg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué diferencia ves?</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué diferencia ves?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777545493634-0l0olu6pg</odePageId>
+      <odeBlockId>block-1777545496125-05gzgyxcd</odeBlockId>
+      <blockName>Diferencias</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777545493634-0l0olu6pg</odePageId>
+          <odeBlockId>block-1777545496125-05gzgyxcd</odeBlockId>
+          <odeIdeviceId>idevice-1777545496124-ufodimn7j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="abeja o avispa">abeja o avispa</span></dt><dd>00:30</dd></div><div class="inline"><dt><span title="Gran grupo">Gran grupo</span></dt><dd>toda la clase</dd></div></dl><p><img src="{{context_path}}/content/resources/abeja.webp" title="abeja" width="158" height="158" alt="" /><img src="{{context_path}}/content/resources/avispa.webp" title="avispa" width="139" height="139" alt="" /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777545496124-ufodimn7j","textInfoDurationInput":"00:30","textInfoDurationTextInput":"abeja o avispa","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"Gran grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"abeja o avispa\">abeja o avispa</span></dt><dd>00:30</dd></div><div class=\"inline\"><dt><span title=\"Gran grupo\">Gran grupo</span></dt><dd>toda la clase</dd></div></dl><p><img src=\"{{context_path}}/content/resources/abeja.webp\" title=\"abeja\" width=\"158\" height=\"158\" alt=\"\" /><img src=\"{{context_path}}/content/resources/avispa.webp\" title=\"avispa\" width=\"139\" height=\"139\" alt=\"\" /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777546689737-9i42dnguu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Búsqueda</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Búsqueda</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777546689737-9i42dnguu</odePageId>
+      <odeBlockId>block-1777546692829-n6apojrbs</odeBlockId>
+      <blockName>buscamos</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777546689737-9i42dnguu</odePageId>
+          <odeBlockId>block-1777546692829-n6apojrbs</odeBlockId>
+          <odeIdeviceId>idevice-1777546692827-zlshr691c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="varias sesiones">varias sesiones</span></dt><dd>00:30</dd></div><div class="inline"><dt><span title="pequeños grupos">pequeños grupos</span></dt><dd>toda la clase</dd></div></dl><p>Buscamos en google información sobre las abejas a partir de las dudas que surgieron en la actividad inicial. Y con la ayuda de la maestra la iremos pegando en un documento de googledoc. Ellos con su voz dirán a google lo que quieren buscar, yo se lo leeré y les enseñaré con el ratón a seleccionar, copiar y pegar en el documento.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777546692827-zlshr691c","textInfoDurationInput":"00:30","textInfoDurationTextInput":"varias sesiones","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"pequeños grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"varias sesiones\">varias sesiones</span></dt><dd>00:30</dd></div><div class=\"inline\"><dt><span title=\"pequeños grupos\">pequeños grupos</span></dt><dd>toda la clase</dd></div></dl><p>Buscamos en google información sobre las abejas a partir de las dudas que surgieron en la actividad inicial. Y con la ayuda de la maestra la iremos pegando en un documento de googledoc. Ellos con su voz dirán a google lo que quieren buscar, yo se lo leeré y les enseñaré con el ratón a seleccionar, copiar y pegar en el documento.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777546980920-m9o0fhfxz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>partes de las abejas</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>partes de las abejas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777546980920-m9o0fhfxz</odePageId>
+      <odeBlockId>block-1777546984482-xam0sm3cr</odeBlockId>
+      <blockName>Cuerpo</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777546980920-m9o0fhfxz</odePageId>
+          <odeBlockId>block-1777546984482-xam0sm3cr</odeBlockId>
+          <odeIdeviceId>idevice-1777546984481-9bsugigg7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aprenderemos las partes de las abejas, colocando el nombre en su lugar. Por ejemplo la palabra  “ala” en su lugar.</p>
+<p><a href="partes-de-las-abejas.html" title="partes ">https://view.genially.com/640f0a9ff9a2220019ae6645</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777546984481-9bsugigg7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aprenderemos las partes de las abejas, colocando el nombre en su lugar. Por ejemplo la palabra  “ala” en su lugar.</p>\n<p><a href=\"exe-node:page-1777546980920-m9o0fhfxz\" title=\"partes \">https://view.genially.com/640f0a9ff9a2220019ae6645</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777547114489-pdgu0ka3a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué se?</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué se?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Qué se?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777547114489-pdgu0ka3a</odePageId>
+      <odeBlockId>block-1777547245195-lz75i026q</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777547114489-pdgu0ka3a</odePageId>
+          <odeBlockId>block-1777547245195-lz75i026q</odeBlockId>
+          <odeIdeviceId>idevice-1777547245194-5rcembe3q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="varias sesiones">varias sesiones</span></dt><dd>00:10</dd></div><div class="inline"><dt><span title="por parejas">por parejas</span></dt><dd>toda la clase</dd></div></dl><p>Aprenderemos y repasaremos cómo las abejas hacen miel a través del juego<a href="https://es.educaplay.com/recursos-educativos/28921167-miel_de_las_abejas.html" title="¿Cómo hacen miel?">https://es.educaplay.com/recursos-educativos/28921167-miel_de_las_abejas.html</a></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777547245194-5rcembe3q","textInfoDurationInput":"00:10","textInfoDurationTextInput":"varias sesiones","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"por parejas","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"varias sesiones\">varias sesiones</span></dt><dd>00:10</dd></div><div class=\"inline\"><dt><span title=\"por parejas\">por parejas</span></dt><dd>toda la clase</dd></div></dl><p>Aprenderemos y repasaremos cómo las abejas hacen miel a través del juego<a href=\"https://es.educaplay.com/recursos-educativos/28921167-miel_de_las_abejas.html\" title=\"¿Cómo hacen miel?\">https://es.educaplay.com/recursos-educativos/28921167-miel_de_las_abejas.html</a></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777547602276-vrztdgl7m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>puzzle</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>puzzle</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777547602276-vrztdgl7m</odePageId>
+      <odeBlockId>block-1777547610077-6aoh5dmf2</odeBlockId>
+      <blockName>paguzzle</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777547602276-vrztdgl7m</odePageId>
+          <odeBlockId>block-1777547610077-6aoh5dmf2</odeBlockId>
+          <odeIdeviceId>idevice-1777547610075-9gsf07k88</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="rotación durante la semana">rotación durante la semana</span></dt><dd>00:15</dd></div><div class="inline"><dt><span title="pequeños grupos">pequeños grupos</span></dt><dd>toda la clase</dd></div></dl><p>Resolver puzzles de abejas y panales</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777547610075-9gsf07k88","textInfoDurationInput":"00:15","textInfoDurationTextInput":"rotación durante la semana","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"pequeños grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"rotación durante la semana\">rotación durante la semana</span></dt><dd>00:15</dd></div><div class=\"inline\"><dt><span title=\"pequeños grupos\">pequeños grupos</span></dt><dd>toda la clase</dd></div></dl><p>Resolver puzzles de abejas y panales</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777547763017-0jz2eopxh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Lógica-matemáticas</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lógica-matemáticas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777547763017-0jz2eopxh</odePageId>
+      <odeBlockId>block-1777547765051-7ypsovwxw</odeBlockId>
+      <blockName>Matemáticas</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777547763017-0jz2eopxh</odePageId>
+          <odeBlockId>block-1777547765051-7ypsovwxw</odeBlockId>
+          <odeIdeviceId>idevice-1777547765049-b8va8tqz4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="toda la semana">toda la semana</span></dt><dd>00:15</dd></div><div class="inline"><dt><span title="Por parejas">Por parejas</span></dt><dd>toda la clase</dd></div></dl><p>Juego de lógica-matemática, en base a la metodología Abn, de numeración y conteo.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777547765049-b8va8tqz4","textInfoDurationInput":"00:15","textInfoDurationTextInput":"toda la semana","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"Por parejas","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"toda la semana\">toda la semana</span></dt><dd>00:15</dd></div><div class=\"inline\"><dt><span title=\"Por parejas\">Por parejas</span></dt><dd>toda la clase</dd></div></dl><p>Juego de lógica-matemática, en base a la metodología Abn, de numeración y conteo.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777548206385-vmn78rijt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Expresión oral</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Expresión oral</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777548206385-vmn78rijt</odePageId>
+      <odeBlockId>block-1777548208457-4yztnmwo1</odeBlockId>
+      <blockName>Hablo</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777548206385-vmn78rijt</odePageId>
+          <odeBlockId>block-1777548208457-4yztnmwo1</odeBlockId>
+          <odeIdeviceId>idevice-1777548208456-vi5s79eeb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="1 sesión">1 sesión</span></dt><dd>00:30</dd></div><div class="inline"><dt><span title="Gran grupo">Gran grupo</span></dt><dd>toda la clase</dd></div></dl><p>Actividad interactiva. Expresión oral sobre las abejas.</p>
+<p><a href="https://quizlet.com/es/1174748067/abejas-flash-cards/?i=74xvf7&amp;x=1jqt" title="repaso oral">https://quizlet.com/es/1174748067/abejas-flash-cards/?i=74xvf7&amp;x=1jqt</a>.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777548208456-vi5s79eeb","textInfoDurationInput":"00:30","textInfoDurationTextInput":"1 sesión","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"Gran grupo","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"1 sesión\">1 sesión</span></dt><dd>00:30</dd></div><div class=\"inline\"><dt><span title=\"Gran grupo\">Gran grupo</span></dt><dd>toda la clase</dd></div></dl><p>Actividad interactiva. Expresión oral sobre las abejas.</p>\n<p><a href=\"https://quizlet.com/es/1174748067/abejas-flash-cards/?i=74xvf7&amp;x=1jqt\" title=\"repaso oral\">https://quizlet.com/es/1174748067/abejas-flash-cards/?i=74xvf7&amp;x=1jqt</a>.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777548920240-pdz2fyinc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Memory</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Memory</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777548920240-pdz2fyinc</odePageId>
+      <odeBlockId>block-1777548922805-v9hp5k2qh</odeBlockId>
+      <blockName>Memory</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777548920240-pdz2fyinc</odePageId>
+          <odeBlockId>block-1777548922805-v9hp5k2qh</odeBlockId>
+          <odeIdeviceId>idevice-1777548922804-8kl9lcniy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="varias sesiones">varias sesiones</span></dt><dd>00:15</dd></div><div class="inline"><dt><span title="por parejas">por parejas</span></dt><dd>toda la clase</dd></div></dl><p>Memory interactivo</p>
+<p><a href="https://view.genially.com/640f0a9ff9a2220019ae6645" title="memory abejas">https://view.genially.com/640f0a9ff9a2220019ae6645</a></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777548922804-8kl9lcniy","textInfoDurationInput":"00:15","textInfoDurationTextInput":"varias sesiones","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"por parejas","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"varias sesiones\">varias sesiones</span></dt><dd>00:15</dd></div><div class=\"inline\"><dt><span title=\"por parejas\">por parejas</span></dt><dd>toda la clase</dd></div></dl><p>Memory interactivo</p>\n<p><a href=\"https://view.genially.com/640f0a9ff9a2220019ae6645\" title=\"memory abejas\">https://view.genially.com/640f0a9ff9a2220019ae6645</a></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777549108314-ason2s6dh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea final</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777549108314-ason2s6dh</odePageId>
+      <odeBlockId>block-1777549110137-gqyasqp0w</odeBlockId>
+      <blockName>infografía</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777549108314-ason2s6dh</odePageId>
+          <odeBlockId>block-1777549110137-gqyasqp0w</odeBlockId>
+          <odeIdeviceId>idevice-1777549110136-r0c53o1zk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Una sesión">Una sesión</span></dt><dd>00:45</dd></div><div class="inline"><dt><span title="pequeños grupos">pequeños grupos</span></dt><dd>toda la clase</dd></div></dl><p>Elaboración de la infografía de todo lo aprendido, para la que contaremos con la ayuda de la maestra de apoyo y del alumnado de 6º que vendrá a ayudarnos, ya que son nuestros padrinos.</p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777549110136-r0c53o1zk","textInfoDurationInput":"00:45","textInfoDurationTextInput":"Una sesión","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"pequeños grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Una sesión\">Una sesión</span></dt><dd>00:45</dd></div><div class=\"inline\"><dt><span title=\"pequeños grupos\">pequeños grupos</span></dt><dd>toda la clase</dd></div></dl><p>Elaboración de la infografía de todo lo aprendido, para la que contaremos con la ayuda de la maestra de apoyo y del alumnado de 6º que vendrá a ayudarnos, ya que son nuestros padrinos.</p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777558463432-dofrl3fhw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777558463432-dofrl3fhw</odePageId>
+      <odeBlockId>block-1777558765854-nh858fvxx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777558463432-dofrl3fhw</odePageId>
+          <odeBlockId>block-1777558765854-nh858fvxx</odeBlockId>
+          <odeIdeviceId>idevice-1777558765853-f62li178n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Al finaliza la SdA">Al finaliza la SdA</span></dt><dd>00:15</dd></div><div class="inline"><dt><span title="individual">individual</span></dt><dd>toda la clase</dd></div></dl><p>DIANAS DE EVALUACIÓN</p>
+<p>Con este instrumento de evaluación pretendo comprobar si los niños/as son</p>
+<p>capaces de participar de forma colaborativa en la evaluación del proyecto de</p>
+<p>investigación.</p>
+<p>La diana es un método de evaluación participativa, rápido y muy visual, que nos</p>
+<p>permite conocer la opinión de nuestros alumnos sobre diversos aspectos de nuestra actividad.</p>
+<p>Esperamos obtener buenos resultados y que haya buena predisposición por parte del alumnado.</p>
+<p>Las posibles variables que pueden surgir pueden ser que los niños/as tengan</p>
+<p>dificultad a la hora de realizar la tarea o no sepan cómo trabajar en grupo. Debido a que tienen tan solo 5 años, estaré en todo momento supervisando y orientando la tarea. Intentaré fomentar un buen clima para que puedan resolver los problemas que surjan entre ellos. Animaré a que expongan sus ideas, escuchen a sus compañeros/as y lleguen a un consenso.</p>
+<p><br /></p>
+<p><br />INSIGNIAS DE SUPER EXPLORADOR (RÚBRICA CON CANVA)</p>
+<p>Con este instrumento de evaluación pretendo motivar al alumnado para que se</p>
+<p>esfuerce en realizar bien las distintas tareas y al mismo tiempo reconocer el logro adquirido de cada uno.</p>
+<p>Cada vez que participen en una tarea, cada alumno/a adquiere su insignia en forma de medalla.  Aunque al ser pequeños las insignias se la llevarán todos y todas. Pero intentaremos en todo momento animar al alumnado para que consigan realizar las actividades con su mayor esfuerzo.</p>
+<p>Las posibles variables que pueden surgir es que los/as niños/as no pudieran hacer solo las actividades propuestas. Debido a las edades con las que trabajo. Yo les guiaré en las actividades en todo momento. También motivaré y valoraré positivamente los logros de cada niño y ofreceré una intervención más individualizada a aquel/aquella que lo necesite.</p>
+<p><br />EVALUACIÓN</p>
+<p>La evaluación se ha convertido en uno de los puntos más importantes de la</p>
+<p>programación.  Gracias a la evaluación los docentes podemos valorar los conocimientos, actitudes y el rendimiento de nuestros alumnos/as. De igual modo, los alumnos/as pueden saber el grado de consecución de los logros propuestos, competencias que nos hemos marcado desarrollar y las habilidades trabajadas.</p>
+<p>Si atendemos a la Orden 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía, la evaluación será global, continua y formativa. Además, debemos tener en cuenta los tipos de evaluación que existen según el momento en el que la hagamos: inicial, procesual y final.</p>
+<p>La técnica principal para evaluar en esta etapa es la observación directa y</p>
+<p>sistemática. En cuanto a los criterios de evaluación, son diversos, tales como las escalas de observación, anecdotarios, listas de control, ...</p>
+<p> </p>
+<table border="1" style="width: 100.058%;">
+<tbody>
+<tr>
+<td style="width: 19.9593%;"><br /></td>
+<td style="width: 19.9593%;">ADECUADO</td>
+<td style="width: 19.9593%;">EN PROCESO</td>
+<td style="width: 19.9593%;">NO ADECUADO</td>
+<td style="width: 19.9638%;">PESO</td>
+</tr>
+<tr>
+<td style="width: 19.9593%;"><br /></td>
+<td style="width: 19.9593%;">3</td>
+<td style="width: 19.9593%;">2</td>
+<td style="width: 19.9593%;">1</td>
+<td style="width: 19.9638%;">20%</td>
+</tr>
+<tr>
+<td style="width: 19.9593%;">
+<h6><strong>BUSQUEDA DE INFORMACIÓN</strong></h6>
+</td>
+<td style="width: 19.9593%;"> Muestra interés y tiene iniciativa por investigar. Propone dónde podemos encontrar información y qué hacer con ella para la elaboración de la infografía.</td>
+<td style="width: 19.9593%;">Muestra curiosidad por investigar y participa en la localización de información</td>
+<td style="width: 19.9593%;">Muestra poco interés por investigar, se siente poco motivado por localizar información del tema</td>
+<td style="width: 19.9638%;">20%</td>
+</tr>
+<tr>
+<td style="width: 19.9593%;">
+<h6>CONTENIDOS</h6>
+</td>
+<td style="width: 19.9593%;"> Los contenidos son claros y coherentes. Aporta las ideas clave del punto que le ha tocado investigar a su equipo.<br /></td>
+<td style="width: 19.9593%;">Aporta información relacionada con el punto que le ha tocado investigar a su equipo pero faltan ideas claves</td>
+<td style="width: 19.9593%;"> Los contenidos son incompletos, aporta cierta información pero no siempre se corresponde con el punto que le ha tocado investigar a su grupo.<br /></td>
+<td style="width: 19.9638%;">20%</td>
+</tr>
+<tr>
+<td style="width: 19.9593%;">
+<h6>IMÁGENES</h6>
+</td>
+<td style="width: 19.9593%;">Muestra iniciativa a la hora de buscar imágenes y selecciona aquellas que están relacionadas con el punto que tiene que investigar su grupo</td>
+<td style="width: 19.9593%;">Participa en la selección de imágenes acordes al punto que tiene que investigar su grupo</td>
+<td style="width: 19.9593%;"> No participa en la sección de imágenes o selecciona aquellas que no tienen que ver con el punto que tiene que investigar su grupo<br /></td>
+<td style="width: 19.9638%;">20%</td>
+</tr>
+<tr>
+<td style="width: 19.9593%;">
+<h6>ACTITUD COLABORATIVA</h6>
+</td>
+<td style="width: 19.9593%;"> Tiene una actitud colaborativa en la realización de la tarea .Expresa su opinión y escucha a los demás para llegar a un consenso.<br /></td>
+<td style="width: 19.9593%;"> Participa en la elaboración de la tarea y muestra una actitud positiva a la hora de escuchar a los demás. Expresa su opinión a veces.<br /></td>
+<td style="width: 19.9593%;">Se implica poco en la elaboración de la tarea en grupo. No escucha a los demás y no aporta su opinión en ningún momento.</td>
+<td style="width: 19.9638%;">20%</td>
+</tr>
+<tr>
+<td style="width: 19.9593%;">
+<h6>MOTIVACIÓN</h6>
+</td>
+<td style="width: 19.9593%;"> Se encuentra contento y motivado en la realización de las tareas<br /></td>
+<td style="width: 19.9593%;">Muestra cierto interés en la realización de las tareas</td>
+<td style="width: 19.9593%;"> Muestra poco interés en la realización de las tareas.<br /></td>
+<td style="width: 19.9638%;">20%</td>
+</tr>
+<tr>
+<td style="width: 19.9593%;"><br /></td>
+<td style="width: 19.9593%;"><br /></td>
+<td style="width: 19.9593%;"><br /></td>
+<td style="width: 19.9593%;"><br /></td>
+<td style="width: 19.9638%;">20%</td>
+</tr>
+</tbody>
+</table>
+<p>  </p>
+<p></p>
+<p></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777558765853-f62li178n","textInfoDurationInput":"00:15","textInfoDurationTextInput":"Al finaliza la SdA","textInfoParticipantsInput":"toda la clase","textInfoParticipantsTextInput":"individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Al finaliza la SdA\">Al finaliza la SdA</span></dt><dd>00:15</dd></div><div class=\"inline\"><dt><span title=\"individual\">individual</span></dt><dd>toda la clase</dd></div></dl><p>DIANAS DE EVALUACIÓN</p>\n<p>Con este instrumento de evaluación pretendo comprobar si los niños/as son</p>\n<p>capaces de participar de forma colaborativa en la evaluación del proyecto de</p>\n<p>investigación.</p>\n<p>La diana es un método de evaluación participativa, rápido y muy visual, que nos</p>\n<p>permite conocer la opinión de nuestros alumnos sobre diversos aspectos de nuestra actividad.</p>\n<p>Esperamos obtener buenos resultados y que haya buena predisposición por parte del alumnado.</p>\n<p>Las posibles variables que pueden surgir pueden ser que los niños/as tengan</p>\n<p>dificultad a la hora de realizar la tarea o no sepan cómo trabajar en grupo. Debido a que tienen tan solo 5 años, estaré en todo momento supervisando y orientando la tarea. Intentaré fomentar un buen clima para que puedan resolver los problemas que surjan entre ellos. Animaré a que expongan sus ideas, escuchen a sus compañeros/as y lleguen a un consenso.</p>\n<p><br /></p>\n<p><br />INSIGNIAS DE SUPER EXPLORADOR (RÚBRICA CON CANVA)</p>\n<p>Con este instrumento de evaluación pretendo motivar al alumnado para que se</p>\n<p>esfuerce en realizar bien las distintas tareas y al mismo tiempo reconocer el logro adquirido de cada uno.</p>\n<p>Cada vez que participen en una tarea, cada alumno/a adquiere su insignia en forma de medalla.  Aunque al ser pequeños las insignias se la llevarán todos y todas. Pero intentaremos en todo momento animar al alumnado para que consigan realizar las actividades con su mayor esfuerzo.</p>\n<p>Las posibles variables que pueden surgir es que los/as niños/as no pudieran hacer solo las actividades propuestas. Debido a las edades con las que trabajo. Yo les guiaré en las actividades en todo momento. También motivaré y valoraré positivamente los logros de cada niño y ofreceré una intervención más individualizada a aquel/aquella que lo necesite.</p>\n<p><br />EVALUACIÓN</p>\n<p>La evaluación se ha convertido en uno de los puntos más importantes de la</p>\n<p>programación.  Gracias a la evaluación los docentes podemos valorar los conocimientos, actitudes y el rendimiento de nuestros alumnos/as. De igual modo, los alumnos/as pueden saber el grado de consecución de los logros propuestos, competencias que nos hemos marcado desarrollar y las habilidades trabajadas.</p>\n<p>Si atendemos a la Orden 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía, la evaluación será global, continua y formativa. Además, debemos tener en cuenta los tipos de evaluación que existen según el momento en el que la hagamos: inicial, procesual y final.</p>\n<p>La técnica principal para evaluar en esta etapa es la observación directa y</p>\n<p>sistemática. En cuanto a los criterios de evaluación, son diversos, tales como las escalas de observación, anecdotarios, listas de control, ...</p>\n<p> </p>\n<table border=\"1\" style=\"width: 100.058%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9593%;\"><br /></td>\n<td style=\"width: 19.9593%;\">ADECUADO</td>\n<td style=\"width: 19.9593%;\">EN PROCESO</td>\n<td style=\"width: 19.9593%;\">NO ADECUADO</td>\n<td style=\"width: 19.9638%;\">PESO</td>\n</tr>\n<tr>\n<td style=\"width: 19.9593%;\"><br /></td>\n<td style=\"width: 19.9593%;\">3</td>\n<td style=\"width: 19.9593%;\">2</td>\n<td style=\"width: 19.9593%;\">1</td>\n<td style=\"width: 19.9638%;\">20%</td>\n</tr>\n<tr>\n<td style=\"width: 19.9593%;\">\n<h6><strong>BUSQUEDA DE INFORMACIÓN</strong></h6>\n</td>\n<td style=\"width: 19.9593%;\"> Muestra interés y tiene iniciativa por investigar. Propone dónde podemos encontrar información y qué hacer con ella para la elaboración de la infografía.</td>\n<td style=\"width: 19.9593%;\">Muestra curiosidad por investigar y participa en la localización de información</td>\n<td style=\"width: 19.9593%;\">Muestra poco interés por investigar, se siente poco motivado por localizar información del tema</td>\n<td style=\"width: 19.9638%;\">20%</td>\n</tr>\n<tr>\n<td style=\"width: 19.9593%;\">\n<h6>CONTENIDOS</h6>\n</td>\n<td style=\"width: 19.9593%;\"> Los contenidos son claros y coherentes. Aporta las ideas clave del punto que le ha tocado investigar a su equipo.<br /></td>\n<td style=\"width: 19.9593%;\">Aporta información relacionada con el punto que le ha tocado investigar a su equipo pero faltan ideas claves</td>\n<td style=\"width: 19.9593%;\"> Los contenidos son incompletos, aporta cierta información pero no siempre se corresponde con el punto que le ha tocado investigar a su grupo.<br /></td>\n<td style=\"width: 19.9638%;\">20%</td>\n</tr>\n<tr>\n<td style=\"width: 19.9593%;\">\n<h6>IMÁGENES</h6>\n</td>\n<td style=\"width: 19.9593%;\">Muestra iniciativa a la hora de buscar imágenes y selecciona aquellas que están relacionadas con el punto que tiene que investigar su grupo</td>\n<td style=\"width: 19.9593%;\">Participa en la selección de imágenes acordes al punto que tiene que investigar su grupo</td>\n<td style=\"width: 19.9593%;\"> No participa en la sección de imágenes o selecciona aquellas que no tienen que ver con el punto que tiene que investigar su grupo<br /></td>\n<td style=\"width: 19.9638%;\">20%</td>\n</tr>\n<tr>\n<td style=\"width: 19.9593%;\">\n<h6>ACTITUD COLABORATIVA</h6>\n</td>\n<td style=\"width: 19.9593%;\"> Tiene una actitud colaborativa en la realización de la tarea .Expresa su opinión y escucha a los demás para llegar a un consenso.<br /></td>\n<td style=\"width: 19.9593%;\"> Participa en la elaboración de la tarea y muestra una actitud positiva a la hora de escuchar a los demás. Expresa su opinión a veces.<br /></td>\n<td style=\"width: 19.9593%;\">Se implica poco en la elaboración de la tarea en grupo. No escucha a los demás y no aporta su opinión en ningún momento.</td>\n<td style=\"width: 19.9638%;\">20%</td>\n</tr>\n<tr>\n<td style=\"width: 19.9593%;\">\n<h6>MOTIVACIÓN</h6>\n</td>\n<td style=\"width: 19.9593%;\"> Se encuentra contento y motivado en la realización de las tareas<br /></td>\n<td style=\"width: 19.9593%;\">Muestra cierto interés en la realización de las tareas</td>\n<td style=\"width: 19.9593%;\"> Muestra poco interés en la realización de las tareas.<br /></td>\n<td style=\"width: 19.9638%;\">20%</td>\n</tr>\n<tr>\n<td style=\"width: 19.9593%;\"><br /></td>\n<td style=\"width: 19.9593%;\"><br /></td>\n<td style=\"width: 19.9593%;\"><br /></td>\n<td style=\"width: 19.9593%;\"><br /></td>\n<td style=\"width: 19.9638%;\">20%</td>\n</tr>\n</tbody>\n</table>\n<p>  </p>\n<p></p>\n<p></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777558463432-dofrl3fhw</odePageId>
+      <odeBlockId>block-1777559700846-t38fand5p</odeBlockId>
+      <blockName>ISTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777558463432-dofrl3fhw</odePageId>
+          <odeBlockId>block-1777559700846-t38fand5p</odeBlockId>
+          <odeIdeviceId>idevice-1777559700845-isw6wt0mh</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777559700845-isw6wt0mh" title="" href="{{context_path}}/content/resources/Diana de Evaluación Educación Blanco Negro (1).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Diana de Evaluación Educación Blanco Negro (1).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777559700845-isw6wt0mh" title="" href="{{context_path}}/content/resources/Documento de insignias de explorador ilustrativo verde y café - copia (1)_page-0001.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Documento de insignias de explorador ilustrativo verde y café - copia (1)_page-0001.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777559700845-isw6wt0mh","img_0":{"img":"{{context_path}}/content/resources/Diana de Evaluación Educación Blanco Negro (1).png","thumbnail":"{{context_path}}/content/resources/Diana de Evaluación Educación Blanco Negro (1).png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Documento de insignias de explorador ilustrativo verde y café - copia (1)_page-0001.jpg","thumbnail":"{{context_path}}/content/resources/Documento de insignias de explorador ilustrativo verde y café - copia (1)_page-0001.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777560097594-n45pgrrep</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUIA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777560097594-n45pgrrep</odePageId>
+      <odeBlockId>block-1777560347838-hn7k4247e</odeBlockId>
+      <blockName>Guía para maestros</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777560097594-n45pgrrep</odePageId>
+          <odeBlockId>block-1777560347838-hn7k4247e</odeBlockId>
+          <odeIdeviceId>idevice-1777560347837-kp0c9nkta</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1B34NgdD_c1qYLa_Jq8LOFjgWy4uKKk5h6dThsLLGTqw/edit?usp=sharing" title="Guía didáctica">https://docs.google.com/document/d/1B34NgdD_c1qYLa_Jq8LOFjgWy4uKKk5h6dThsLLGTqw/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777560347837-kp0c9nkta","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1B34NgdD_c1qYLa_Jq8LOFjgWy4uKKk5h6dThsLLGTqw/edit?usp=sharing\" title=\"Guía didáctica\">https://docs.google.com/document/d/1B34NgdD_c1qYLa_Jq8LOFjgWy4uKKk5h6dThsLLGTqw/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777560580548-v8iirv21q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777560580548-v8iirv21q</odePageId>
+      <odeBlockId>block-1777560584246-coaisgvok</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777560580548-v8iirv21q</odePageId>
+          <odeBlockId>block-1777560584246-coaisgvok</odeBlockId>
+          <odeIdeviceId>idevice-1777560584245-4z5xll64x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autora: Alba Avellaneda Torres.</p>
+<p>Se trata de una SdA sobre las abejas para el alumnado de infantil de 5 años, fácilmente adaptable para otros niveles de infantil.</p>
+<p>Aquí el alumnado aprenderá cómo hacen la miel las abejas, cómo viven, características de las colmenas y de las abejas y su importancia en el medioambiente.</p>
+<p>la licencia de uso será: CC BY NC</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777560584245-4z5xll64x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Alba Avellaneda Torres.</p>\n<p>Se trata de una SdA sobre las abejas para el alumnado de infantil de 5 años, fácilmente adaptable para otros niveles de infantil.</p>\n<p>Aquí el alumnado aprenderá cómo hacen la miel las abejas, cómo viven, características de las colmenas y de las abejas y su importancia en el medioambiente.</p>\n<p>la licencia de uso será: CC BY NC</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777560580548-v8iirv21q</odePageId>
+      <odeBlockId>block-1777561647983-hn9kztryk</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777560580548-v8iirv21q</odePageId>
+          <odeBlockId>block-1777561647983-hn9kztryk</odeBlockId>
+          <odeIdeviceId>idevice-1777561647982-ls1tfzyce</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿DÓNDE ESTÁ LA MIEL DE LAS ABEJAS?</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Con el alumnado de 5 años de Ed. Infantil vamos a trabajar Las abejas. Qué hacen, qué fabrican, que comen, que producen, las partes de su cuerpo, la importancia de la polinización y la miel y sus beneficios para la salud</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Alba Avellaneda Torres</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#755f10;color:#373434;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
